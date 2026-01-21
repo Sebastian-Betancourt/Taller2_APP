@@ -30,11 +30,14 @@ ExpenseTracker es una aplicación móvil desarrollada en **Android con Kotlin y 
 
 4. **Cálculo del total**
    - Calcula automáticamente el total de todos los gastos registrados y lo muestra en pantalla de manera destacada.
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/05123192-5a12-4c04-b556-744b8e7fdf88" />
 
 5. **Recordatorios diarios**
    - Configuración de notificaciones diarias para recordar al usuario ingresar sus gastos.
    - Se puede activar o desactivar.
    - Permite seleccionar la **hora exacta** mediante un `TimePicker`.
+     <img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/7b3e102e-ff37-4521-8e87-c6a84f3651ad" />
+
 
 6. **Interfaz amigable**
    - Desarrollada con **Jetpack Compose** para una UI moderna y reactiva.
